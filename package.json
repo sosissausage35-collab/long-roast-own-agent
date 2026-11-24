@@ -1,0 +1,1 @@
+{"description":"One-line roast of my own AI agent for make.fun The Long Roast","engines":{"node":">=22.18"},"license":"MIT","name":"long-roast-own-agent","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
